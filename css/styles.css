@@ -18,7 +18,7 @@ body {
     font-size: 14px;
     font-family: 'Ubuntu', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background: #000000;
 }
 
 ::selection {
@@ -32,7 +32,7 @@ body {
 }
 
 p {
-    color: #858585;
+    color: #F7046C;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,11 +46,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .pDark p {
-    color: #6D6D6D;
+    color: #F7046C;
 }
 
 .pDark h3 {
-    color: #BEBEBE;
+    color: #31B0CE;
 }
 
 .btn {
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 a {
-    color: #00bfff;
+    color: #31B0CE;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -118,8 +118,8 @@ a {
 }
 
 .copyright {
-    color: #6D6D6D;
-    background: #E9E9E9;
+    color: #31B0CE;
+    background: #000000;
     padding: 20px 0;
 }
 
@@ -179,7 +179,7 @@ a {
 }
 
     .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #00bfff;*/;
+        /*background-color: #00bfff;*/
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
@@ -248,7 +248,7 @@ a {
 }
 
 #section-strapline {
-    background: #f00bfff;
+    background: #f00bff;
     line-height: 42px;
     clear: both;
 }
@@ -335,7 +335,7 @@ a {
 }
 
 .darkBg {
-    background: #25272C;
+    background: #000000;
 }
 
     .darkBg .fa {
@@ -379,7 +379,7 @@ a {
     .banner-content p {
         font-size: 1.6em;
         font-style: normal;
-        color: #fff;
+        color: #F7046C;
         font-family: 'Roboto', sans-serif;
         text-shadow: 1px 1px 1px #8F8F8F;
     }
@@ -494,12 +494,14 @@ a {
     line-height: 32px;
     margin: 10px 0 0;
     text-align: center;
+    color: #31B0CE;
 }
 
 .team-member .pos {
     display: block;
     margin: 0;
     text-align: center;
+    color: #F7046C;
 }
 
 .team-member .contact a {
@@ -507,7 +509,7 @@ a {
 }
 
 .team-socials a {
-    background: white;
+    background: black;
     padding: 7px 0;
     margin: 2px;
 }
@@ -517,7 +519,7 @@ a {
 }
 
     #contactUs .btn {
-        background: rgba(255, 255, 255, 0.29);
+        background: rgba(0, 0, 0, 1);
     }
 
 .descrition {
@@ -760,7 +762,7 @@ body {
 footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
-    background: #fff;
+    background: #000000;
 }
 
 .social a:hover {
@@ -1024,11 +1026,11 @@ footer {
 .parlex-back {
     padding: 30px 0;
     background-color: rgba(0, 0, 0, 0.37);
-    color: #FDFDFD !important;
+    color: #31B0CE !important;
 }
 
     .parlex-back .heading p {
-        color: #FDFDFD;
+        color: #F7046C;
     }
 
 #clients {
