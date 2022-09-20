@@ -166,11 +166,11 @@ a {
 .header {
     position: fixed;
     width: 100%;
-    background: #fff;
+    background: #ffffff;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid #D6D6D6;
+    border-bottom: 1px solid #000000;
 }
 
 .navbar-inverse .navbar-toggle {
