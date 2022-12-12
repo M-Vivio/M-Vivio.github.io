@@ -1,5 +1,4 @@
-this website uses a template that I have created, 
-more examples of this template at work can be seen at atriumrats.com
 
 
-all fonts have links within the folders
+all fonts have credit links within the folders, and do not violate copyright
+the js folder contains imported animated elements, credit is cited
